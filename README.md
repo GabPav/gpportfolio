@@ -1,12 +1,61 @@
-# React + Vite
+# GabPav Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 **Personal Web Portfolio**  
+A showcase of my work as a front-end developer, UI/UX designer, and graphic designer.
 
-Currently, two official plugins are available:
+This project includes a collection of my personal and client-based work — from responsive React applications to design prototypes and print materials.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **Figma** – for UI/UX design
+- **Affinity Publisher** – for graphic design
+- **Canva** – for quick visuals and presentations
+- **Git + GitHub** – for version control
+
+---
+
+## 📁 Project Highlights
+
+Each section of this portfolio represents a different area of my skillset:
+
+- **Wedding Landing Page** – React/Tailwind CSS project for a fictional wedding photographer.
+- **Restaurant Website** – A full restaurant website with responsive design.
+- **Little Lemon Table Booking** – UI/UX prototype of a restaurant booking app.
+- **Plant Guardian App** – Design for a plant care mobile app.
+- **Universa Catalogue** – Professionally designed print catalog made in Affinity Publisher and Canva.
+- **Coming Soon: Architecture Social App** – A concept for a community platform for architecture lovers.
+
+All projects are either interactive or linked to external live previews or Figma prototypes.
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/GabPav/gpportfolio.git
+cd gpportfolio
+npm install
+npm run dev
+
+
+## Contact
+
+Feel free to reach out if you’d like to collaborate or have any questions!
+
+- 💻 GitHub: [GabPav](https://github.com/GabPav)
+- 📧 Email: your.email@example.com
+
+---
+
+Thank you for visiting my portfolio!
+This project represents my growth and dedication as a front-end developer and designer — combining technical knowledge, visual creativity, and continuous learning.
+
+🎨 Built with passion, powered by React & Tailwind.
+```

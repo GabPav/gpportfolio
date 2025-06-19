@@ -26,7 +26,7 @@ I speak English, Slovene, and Serbian fluently, and prefer working in a calm, fo
 
   return (
     <section id='about' className="w-full bg-[#FAFAFA] py-20 px-6 md:px-12 text-[#12343B]">
-      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10">
+      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-start gap-10">
 
         {/* Left side – image */}
         <div className="w-full md:w-1/2">
