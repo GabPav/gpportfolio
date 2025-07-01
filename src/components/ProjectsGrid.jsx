@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import WeddingPhoto from '../assets/wedding_landing_page.png';
-import RestaurantPhoto from '../assets/mo_restaurant.png';
-import LittleLemon from '../assets/little_lemon.png';
-import PlantGuardian from '../assets/plantGuardian.png';
-import UniversaFp from '../assets/universaFirstPage.png';
+import WeddingPhoto from '../assets/wedding_landing_page.jpg';
+import RestaurantPhoto from '../assets/mo_restaurant.jpg';
+import LittleLemon from '../assets/little_lemon.webp';
+import PlantGuardian from '../assets/plantGuardian.jpg';
+import UniversaFp from '../assets/universaFirstPage.webp';
 
 const projects = [
   {
