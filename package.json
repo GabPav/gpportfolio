@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://gabpav.github.io/gpportfolionpm/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist --repo https://github.com/GabPav/gpportfolio.git"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
