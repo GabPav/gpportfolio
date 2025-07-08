@@ -39,7 +39,7 @@ const projects = [
   {
     title: 'Universa Catalogue',
     image: UniversaFp,
-    link: '/universa.pdf',
+    link: '/universa-compressed.pdf',
     category: 'Grafic Design',
   },
 ];
