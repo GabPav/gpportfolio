@@ -61,7 +61,7 @@ const Navbar = () => {
     <a href="#about" className="block text-white" onClick={toggleMenu}>
       About
     </a>
-    <a href="#sertification" className="block text-white" onClick={toggleMenu}>
+    <a href="#certification" className="block text-white" onClick={toggleMenu}>
       Certification 
     </a>
     <a href="#contact" className="block text-white" onClick={toggleMenu}>
